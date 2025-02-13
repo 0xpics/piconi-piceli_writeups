@@ -139,7 +139,7 @@ Nela podemos ver que os 16 caracteres não eram uma coincidência, eles represen
 
 Para descobrirmos a chave, nós iremos procurar os 16 caracteres que destacamos anteriormente, e quando essa posição for achada, colocaremos o número subtraido por 1 na chave, pois no código é dito que `result = result.slice(0,result.length-1)`, ex. Se a posição do número for 7, seu número na chave será 6.
 
-[![Captura-de-tela-2025-02-12-222359.png](https://i.postimg.cc/FzqzS6WC/Captura-de-tela-2025-02-12-222359.png)](https://postimg.cc/30X35tH2)
+[![Captura-de-tela-2025-02-12-222359.png](https://i.postimg.cc/Z55YvRRs/Captura-de-tela-2025-02-12-222359.png)](https://postimg.cc/LnGFrmjj)
 
 Fazendo esse processo nós teremos essa chave:
 
