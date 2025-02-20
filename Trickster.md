@@ -1,5 +1,5 @@
 # DuckWare Team - Web Gauntlet (picoCTF 2024)
-###### Solved by @xpics and @JoaoPedroPiceli
+###### Solved by @0xpics and @JoaoPedroPiceli
 >This CTF is about SQL Injection, Web exploitation
 
 # Desafio: Exploração Web
