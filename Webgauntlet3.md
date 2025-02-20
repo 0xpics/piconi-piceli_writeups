@@ -1,5 +1,5 @@
 # DuckWare Team - Web Gauntlet 3 (picoCTF 2021)
-###### Solved by @xpics and @JoaoPedroPiceli  
+###### Solved by @0xpics and @JoaoPedroPiceli  
 >This CTF is about SQL Injection, Web exploitation  
 
 # Desafio: Injeção SQL com Limite de Caracteres  
