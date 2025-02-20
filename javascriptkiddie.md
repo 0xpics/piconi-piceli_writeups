@@ -1,6 +1,6 @@
 # Duckware Team - Java Script Kiddie(picoCTF 2019)
 
-###### Solved by @xpics and @JoaoPedroPiceli
+###### Solved by @0xpics and @JoaoPedroPiceli
 
 >This CTF is about Java Script, PNG File structure, Web Exploitation
 
