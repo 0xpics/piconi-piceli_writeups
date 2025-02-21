@@ -40,7 +40,7 @@ Com isso obteremos a seguinte resposta:
   
 Agora poderemos acessar a imagem escondida. Indo até seu diretório, encontramos essa imagem:
 
-[![2-c.png](https://i.postimg.cc/PqSBpMsJ/2-c.png)](https://postimg.cc/jWJ8BPjY)
+[![Whats-App-Image-2025-02-20-at-23-35-56.jpg](https://i.postimg.cc/6qtjM2Ng/Whats-App-Image-2025-02-20-at-23-35-56.jpg)](https://postimg.cc/VrZW6NvW)
 
 Mais uma boneca, significa que precisamos cavar mais fundo para achar a flag.
 
