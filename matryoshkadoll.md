@@ -54,7 +54,7 @@ Achamos mais uma imagem, fazendo o mesmo processo para acessa-la, conseguimos es
 
 Outra boneca, repetindo o mesmo processo de descoberta e acesso nessa imagem conseguiremos essa nova imagem:
 
-[![4-c.png](https://i.postimg.cc/KvtwrbSd/4-c.png)](https://postimg.cc/kBXTqk5c)
+[![Whats-App-Image-2025-02-20-at-23-38-33.jpg](https://i.postimg.cc/fWfgJKcN/Whats-App-Image-2025-02-20-at-23-38-33.jpg)](https://postimg.cc/NLLxnRCJ)
 
 Mais uma boneca, porém dessa vez ao repetirmos o processo anterior conseguimos uma nova resposta:
 
