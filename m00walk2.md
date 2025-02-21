@@ -88,7 +88,7 @@ Vamos repetir o mesmo processo que usamos com o arquivo message.wav, com os outr
 
 **clue3.wav:**
 
-[![Whats-App-Image-2025-02-20-at-03-09-54.jpg](https://i.postimg.cc/CK0MY0b0/Whats-App-Image-2025-02-20-at-03-09-54.jpg)](https://postimg.cc/21HNFPH9)
+[![Captura-de-tela-2025-02-21-041432.jpg](https://i.postimg.cc/mD5tTqbS/Captura-de-tela-2025-02-21-041432.jpg)](https://postimg.cc/ftYwK8S3)
 
 Todas as imagens obtidas nos dão dica de como prosseguir no desafio, porém as mais importante são a primeira e a terceira.
 
