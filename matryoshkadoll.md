@@ -50,7 +50,7 @@ Fazendo isso obteremos essa resposta:`187707        0x2DD3B         Zip archive 
 
 Achamos mais uma imagem, fazendo o mesmo processo para acessa-la, conseguimos essa imagem:
 
-[![3-c.png](https://i.postimg.cc/sxh8LdBG/3-c.png)](https://postimg.cc/m1T8cnyT)
+[![Whats-App-Image-2025-02-20-at-23-37-17.jpg](https://i.postimg.cc/NFDNSssM/Whats-App-Image-2025-02-20-at-23-37-17.jpg)](https://postimg.cc/N2y7rwrq)
 
 Outra boneca, repetindo o mesmo processo de descoberta e acesso nessa imagem conseguiremos essa nova imagem:
 
