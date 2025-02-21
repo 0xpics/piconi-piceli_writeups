@@ -2,7 +2,7 @@
 
 ###### Solved by @0xpics and @JoaoPedroPiceli
 
-> This CTF is about Forensics, Hidden Files
+> This CTF is about Forensics, steganography
 
 ## Sobre o desafio
 
