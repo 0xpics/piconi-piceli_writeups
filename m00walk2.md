@@ -84,7 +84,7 @@ Vamos repetir o mesmo processo que usamos com o arquivo message.wav, com os outr
 
 **clue2.wav:**
 
-[![Captura-de-tela-2025-02-21-041148.jpg](https://i.postimg.cc/Rh26LYy0/Captura-de-tela-2025-02-21-041148.jpg)](https://postimg.cc/p5YL2s2N)
+[![Captura-de-tela-2025-02-21-042257.jpg](https://i.postimg.cc/CLQTmgc7/Captura-de-tela-2025-02-21-042257.jpg)](https://postimg.cc/Tpg43ZM5)
 
 **clue3.wav:**
 
