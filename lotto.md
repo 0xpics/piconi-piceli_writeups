@@ -1,4 +1,4 @@
-
+# Duckware Team - lotto (pwnable)
 
 ###### Solved by @0xpics and @JoaoPedroPiceli
 
