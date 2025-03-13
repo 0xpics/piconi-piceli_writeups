@@ -1,5 +1,5 @@
 # DuckWare Team - Engenharia Reversa  
-###### Solved by @João Pedro Piceli and @xpics :)  
+###### Solved by @JoaoPedroPiceli and @xpics :)  
 
 > Este CTF aborda a exploração de vulnerabilidades analisando códigos através do Ghidra.  
 
